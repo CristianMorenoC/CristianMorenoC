@@ -1,4 +1,4 @@
-<img src="https://networks.imdea.org/wp-content/uploads/2021/09/media-file-code-900x500.png">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg">
 
 <h2> Hey there! I'm Cristian Moreno 👋</h2>
 
