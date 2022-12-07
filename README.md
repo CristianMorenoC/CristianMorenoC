@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg">
+<img src="https://www.canva.com/design/DAFUHsMOAQw/S5toX6neew_0NIzDsyb29Q/edit?utm_content=DAFUHsMOAQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 <h2> Hey there! I'm Cristian Moreno 👋</h2>
 
