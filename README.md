@@ -12,7 +12,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 🌐 &nbsp;
-  ![Typescript](https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e)
+  <img src="https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e" alt="typescript">
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
