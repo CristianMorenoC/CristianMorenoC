@@ -49,7 +49,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/cristian-moreno-365366208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:cristianfmoreno95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<p>
+<a href="https://www.linkedin.com/in/cristian-moreno-365366208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cristian%20Moreno%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:cristianfmoreno95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristianfmoreno95@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
