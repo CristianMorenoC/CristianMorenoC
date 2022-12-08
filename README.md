@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/yB09LQJ/github-backgorund-cristian-moreno.png" alt="background-cristian-moreno">
+<img src="https://i.ibb.co/yB09LQJ/github-backgorund-cristian-moreno.png" height="500px" alt="background-cristian-moreno">
 
 <h2> Hey there! I'm Cristian Moreno 👋</h2>
 
