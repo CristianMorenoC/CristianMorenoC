@@ -12,6 +12,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <div style="display:flex;">
+  <div>
 </h4> 🌐 &nbsp; LANGUAGES, TECH AND FRAMEWORKS </h4>
 <div style="display:flex; width:30%;">
   <img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="javascript">
@@ -38,6 +39,7 @@
 <h4> 🔧 &nbsp; Work environment </h4>
   <div style="display:flex; width:30%;">
     <img src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="visualstudiocode">
+  </div>
   </div>
   <div style="display:flex;">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="coding">
