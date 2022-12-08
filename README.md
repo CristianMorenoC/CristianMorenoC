@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFUHsMOAQw/S5toX6neew_0NIzDsyb29Q/edit?utm_content=DAFUHsMOAQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src="https://i.ibb.co/yB09LQJ/github-backgorund-cristian-moreno.png" alt="background-cristian-moreno">
 
 <h2> Hey there! I'm Cristian Moreno 👋</h2>
 
@@ -12,7 +12,6 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <div style="display:flex;">
-  <div>
 </h4> 🌐 &nbsp; LANGUAGES, TECH AND FRAMEWORKS </h4>
 <div style="display:flex; width:30%;">
   <img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="javascript">
@@ -43,7 +42,6 @@
   </div>
   <div style="display:flex;">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="coding">
-  </div>
 </div>
 
 <br/>
